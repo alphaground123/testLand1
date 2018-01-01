@@ -53,7 +53,9 @@ load 'positions.plt'
 
 The user can see the trajectory of each particle in space (see below).
 
-![Image of test] (https://github.com/alphaground123/testLand1/tree/master/images/five_particules.png)
+![Image of test] (https://github.com/alphaground123/testLand1/blob/master/images/five_particules.png)
+![Image of test] (images/five_particules.png)
+![Image of test] (five_particules.png)
 
 
 ## Example
