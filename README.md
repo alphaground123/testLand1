@@ -53,7 +53,7 @@ load 'positions.plt'
 
 The user can see the trajectory of each particle in space (see below).
 
-![Image of test] (https://i.goopics.net/pGm2Z.png)
+![alt text](https://i.goopics.net/pGm2Z.png)
 
 
 ## Example
