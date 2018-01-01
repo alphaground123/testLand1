@@ -13,7 +13,7 @@ Therefore, I suggest beginning with two particles.
 
 ## How to use
 
-The FPS runs on Linux. Before using the FPS, make sure you have [Gnuplot] (http://www.gnuplot.info/) on your Linux distribution.
+The FPS runs on Linux. Before using the FPS, make sure you have [Gnuplot](http://www.gnuplot.info/) on your Linux distribution.
 
 #### Makefile
 Open the terminal and type the command lines: <br />
@@ -55,7 +55,7 @@ The user can see the trajectory of each particle in space (see below).
 
 ![alt text](https://i.goopics.net/pGm2Z.png)
 
-![alt text](https://photos.app.goo.gl/Xl8f3ck7JUKXDxdw2)
+![alt text](https://github.com/alphaground123/testLand1/blob/master/images/five_particules.png)
 
 ## Example
 
