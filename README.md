@@ -8,6 +8,8 @@ The falling particles simulator considers as many particles as the user has deci
 If the user enters a large number of particles, the more he will enter data.
 Therefore, I suggest beginning with two particles.
 
+![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
+
 ## Supported platforms
 - Linux
 
